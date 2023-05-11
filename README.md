@@ -1,2 +1,2 @@
 # 6502-PCB
-6502 PCB project
+The goal for this project is to make a custom PCB board to store the 6502 computer based on Ben Eater's youtube videos because having bread boards is kind of annoying. Some minor goals is to include hardware support to program the EEPROM directly through a usb port rather than through a 3rd party programmer. Additionally making it modular would be nice or at least easily customizable if I want to change the archictecture more easily.
